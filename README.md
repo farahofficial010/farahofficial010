@@ -1,35 +1,21 @@
-# Hi, I'm Farah
+<h1 align="center">Farah</h1>
+<p align="center"><i>Applied Mathematician</i></p>
 
-Applied mathematician working at the intersection of **nonlinear differential equations** and **data-driven modeling**.
-
----
-
-## Research Interests
-
-- **Parametric fitting** — estimating model parameters from experimental and simulated data.
-- **Traveling wave solutions** — analytical and numerical study of nonlinear PDEs.
+<p align="center">
+  <img src="https://img.shields.io/badge/Field-Applied%20Mathematics-0A66C2?style=for-the-badge" alt="Applied Mathematics"/>
+  <img src="https://img.shields.io/badge/Focus-Parametric%20Fitting-1B998B?style=for-the-badge" alt="Parametric Fitting"/>
+  <img src="https://img.shields.io/badge/Focus-Traveling%20Wave%20Solutions-6A4C93?style=for-the-badge" alt="Traveling Wave Solutions"/>
+</p>
 
 ---
 
-## Tools
+<h3 align="center">Tools</h3>
 
-- **Python** — numerical computation, optimization, and visualization (`NumPy`, `SciPy`, `Matplotlib`).
-- **MATLAB** — symbolic and numerical analysis of differential equations.
-- **Mathematica** — symbolic derivation, exact solutions, and verification.
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB"/>
+  <img src="https://img.shields.io/badge/Mathematica-DD1100?style=for-the-badge&logo=wolframmathematica&logoColor=white" alt="Mathematica"/>
+</p>
 
----
-
-## Selected Work
-
-| Repository | Description |
-|------------|-------------|
-| *(name)* | Parametric fitting routines for nonlinear models. |
-| *(name)* | Traveling wave solutions for a class of nonlinear PDEs. |
-| *(name)* | Numerical experiments and figures supporting published results. |
-
----
-
-## Contact
-
-- Email: **farahofficial010@gmail.com**
-
+<p align="center">
+  <img src="h
