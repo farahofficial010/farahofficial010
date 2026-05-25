@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Farah
 
-<!--
-**farahofficial010/farahofficial010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Applied mathematician working at the intersection of **nonlinear differential equations** and **data-driven modeling**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Research Interests
+
+- **Parametric fitting** — estimating model parameters from experimental and simulated data.
+- **Traveling wave solutions** — analytical and numerical study of nonlinear PDEs.
+
+---
+
+## Tools
+
+- **Python** — numerical computation, optimization, and visualization (`NumPy`, `SciPy`, `Matplotlib`).
+- **MATLAB** — symbolic and numerical analysis of differential equations.
+- **Mathematica** — symbolic derivation, exact solutions, and verification.
+
+---
+
+## Selected Work
+
+| Repository | Description |
+|------------|-------------|
+| *(name)* | Parametric fitting routines for nonlinear models. |
+| *(name)* | Traveling wave solutions for a class of nonlinear PDEs. |
+| *(name)* | Numerical experiments and figures supporting published results. |
+
+---
+
+## Contact
+
+- Email: **farahofficial010@gmail.com**
+
