@@ -2,9 +2,7 @@
 <p align="center"><i>Applied Mathematician</i></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Field-Applied%20Mathematics-0A66C2?style=for-the-badge" alt="Applied Mathematics"/>
-  <img src="https://img.shields.io/badge/Focus-Parametric%20Fitting-1B998B?style=for-the-badge" alt="Parametric Fitting"/>
-  <img src="https://img.shields.io/badge/Focus-Traveling%20Wave%20Solutions-6A4C93?style=for-the-badge" alt="Traveling Wave Solutions"/>
+  <b>Applied Mathematics</b> &nbsp;·&nbsp; <b>Parametric Fitting</b> &nbsp;·&nbsp; <b>Traveling Wave Solutions</b>
 </p>
 
 ---
@@ -41,7 +39,7 @@
 <h3 align="center">Contact</h3>
 
 <p align="center">
-  <a href="mailto:farahofficial010@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="mailto:farahofficial010@gmail.com" style="color:#EA4335; text-decoration:none;">
+    <b><span style="color:#EA4335;">farahofficial010@gmail.com</span></b>
   </a>
 </p>
